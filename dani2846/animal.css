@@ -14,7 +14,7 @@ header {
 }
 
 p {
-  font-size: 24pt;
+  font-size: 18pt;
 }
 
 #firstParagraph {
@@ -29,4 +29,5 @@ p {
 
 nav {
   text-align: center;
+  font-size: 12pt;
 }
