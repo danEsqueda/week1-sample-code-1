@@ -4,8 +4,9 @@ header {
   color: #FFE6E6;
   background: #006600;
   border: solid black 1px;
-  font-size: 64pt;
+  font-size: 40pt;
   font-family: "Libre Baskerville";
+  text-align: center;
 }
 
 .link {
@@ -13,7 +14,7 @@ header {
 }
 
 p {
-  font-size: 64pt;
+  font-size: 24pt;
 }
 
 #firstParagraph {
